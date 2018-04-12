@@ -21,3 +21,6 @@ Docker engine telepítése
         stable"
    -    sudo apt-get update
    -    sudo apt-get install docker-ce
+   
+   -    sudo adduser ubuntu docker                                                           ----user docker-csoportba adása
+   -    sudo docker run hello-world                 ----ha ez megy, akkor elvileg jó----
